@@ -6,46 +6,46 @@
 
 #### GET
 ```
-/api/salas
+ud25-cine.herokuapp.com/api/salas
 
-/api/salas/{id}
+ud25-cine.herokuapp.com/api/salas/{id}
 ```
 
 #### DELETE
 ```
-/api/salas/{id}
+ud25-cine.herokuapp.com/api/salas/{id}
 ```
 
 #### POST - REQUEST BODY
 ```
-/api/salas
+ud25-cine.herokuapp.com/api/salas
 ```
 
 #### PUT - REQUEST BODY
 ```
-/api/salas/{id}
+ud25-cine.herokuapp.com/api/salas/{id}
 ```
 
 ### PELICULAS
 
 #### GET
 ```
-/api/peliculas
+ud25-cine.herokuapp.com/api/peliculas
 
-/api/peliculas/{id}
+ud25-cine.herokuapp.com/api/peliculas/{id}
 ```
 
 #### DELETE
 ```
-/api/peliculas/{id}
+ud25-cine.herokuapp.com/api/peliculas/{id}
 ```
 
 #### POST - REQUEST BODY
 ```
-/api/peliculas
+ud25-cine.herokuapp.com/api/peliculas
 ```
 
 #### PUT - REQUEST BODY
 ```
-/api/peliculas/{id}
+ud25-cine.herokuapp.com/api/peliculas/{id}
 ```
