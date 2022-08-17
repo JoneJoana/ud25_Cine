@@ -26,14 +26,12 @@ public class PeliculasServiceImpl implements IPeliculasService{
 
 	@Override
 	public void deletePeliculas(int id) {
-		// TODO Auto-generated method stub
-		
+		iPeliDao.deleteById(id);
 	}
 
 	@Override
 	public Peliculas findById(int id) {
-		// TODO Auto-generated method stub
-		return null;
+		return iPeliDao.findById(id).get();
 	}
 
 }
