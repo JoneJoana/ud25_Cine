@@ -1,5 +1,17 @@
 # ud25_Cine
 
+## T25 - PROYECTO LOCAL
+Proyecto ya creado de base aplicando cambios para correcto Deploy en Heroku. No hay linia clara por commits:
+```
+Commits on Aug 17, 2022
+
+    Create README.md 
+
+commit 7033224b1e6c9e15ca57fd2e42065b21e7666578
+```
+
+## T26 - DEPLOY HEROKU
+
 ## API CINE
 
 ### SALAS
